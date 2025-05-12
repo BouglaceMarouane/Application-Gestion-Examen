@@ -185,12 +185,12 @@
 
 ---
 
-### **11. Exemple of Report**
-<p align="center">
-  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/bull.png" alt="Reports"/>
-  <br>
-  <em>📋 Example of Report – A sample student performance report that can be generated and downloaded in PDF format.</em>
-</p>
+### **11. Example of Report**
+
+| <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/bull.png" alt="Reports" width="300"/> |
+|:--:|
+| 📋 *Example of Report – A sample student performance report that can be generated and downloaded in PDF format.* |
+
 
 ---
 

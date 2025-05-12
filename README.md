@@ -140,9 +140,9 @@
 
 ---
 
-### **7. Classes Management**
+### **6. Classes Management**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Class Management"/>
+  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/gestion_class.png" alt="Class Management"/>
   <br>
   <em>🏫 Class Management - Organize students into classes and academic fields.</em>
 </p>

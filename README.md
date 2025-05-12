@@ -107,16 +107,12 @@
 ### **2–3. Login & Registration Pages**
 
 <p align="center">
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/46fda12b1ae5c9713812f89aa893d78ddc66c053/images/login.png" alt="Login Page" width="300"/>
-    <br>
-    <em>🔑 Login Page<br>Secure login for administrators, teachers, and students.</em>
-  </div>
-  <div style="display: inline-block; text-align: center; margin: 10px;">
-    <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/46fda12b1ae5c9713812f89aa893d78ddc66c053/images/register.png" alt="Registration Page" width="300"/>
-    <br>
-    <em>📝 Registration Page<br>Allows students to register with their details.</em>
-  </div>
+  
+| Login Page | Registration Page |
+|:----------:|:-----------------:|
+| <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/46fda12b1ae5c9713812f89aa893d78ddc66c053/images/login.png" alt="Login Page" width="300"/> | <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/46fda12b1ae5c9713812f89aa893d78ddc66c053/images/register.png" alt="Registration Page" width="300"/> |
+| 🔑 *Secure login for administrators, teachers, and students.* | 📝 *Allows students to register with their details.* |
+
 </p>
 
 ---

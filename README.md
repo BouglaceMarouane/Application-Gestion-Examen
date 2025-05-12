@@ -194,6 +194,15 @@
 
 ---
 
+### **12. Exemple of Report**
+<p align="center">
+  <img src="https://via.placeholder.com/800x400" alt="Reports"/>
+  <br>
+  <em>📋 Example of Report – A sample student performance report that can be generated and downloaded in PDF format.</em>
+</p>
+
+---
+
 ## ***🚧 Challenges Faced :***
 
 ### **1. Database Design**

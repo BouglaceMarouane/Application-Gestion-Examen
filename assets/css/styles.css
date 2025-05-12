@@ -1,0 +1,309 @@
+/* Main styling for the school exam management system */
+
+/* Base Styles */
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+/* Login Page */
+.login-container {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+/* Sidebar Styles */
+.sidebar {
+    position: fixed;
+    top: 0;
+    left: 0px;
+    height: 100vh;
+    width: 250px;
+    background-color: #2c3e50;
+    color: #ecf0f1;
+    transition: left 0.3s ease;
+    z-index: 1040;
+}
+
+.sidebar .nav-link {
+    color: #ecf0f1;
+    opacity: 0.8;
+    padding: 0.8rem 1rem;
+    transition: opacity 0.3s;
+}
+
+.sidebar .nav-link:hover,
+.sidebar .nav-link.active {
+    opacity: 1;
+    background-color: rgba(255, 255, 255, 0.1);
+}
+
+.sidebar .nav-link i {
+    margin-right: 10px;
+    width: 24px;
+    text-align: center;
+}
+
+.sidebar-collapse .sidebar {
+    width: 70px;
+}
+
+.sidebar-collapse .sidebar .nav-link span {
+    display: none;
+}
+
+/* Main Content Styles */
+.main-content {
+    margin-left: 250px;
+    transition: margin-left 0.3s;
+    min-height: 100vh;
+    width: 100%;
+}
+
+/* Cards */
+.card {
+    border: none;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    transition: box-shadow 0.3s;
+}
+
+.card:hover {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+}
+
+.card-header {
+    background-color: #ffffff;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.125);
+}
+
+/* Cards */
+.stat-card {
+    border-radius: 0.5rem;
+    border: none;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    transition: transform 0.3s;
+}
+
+.stat-card:hover {
+    transform: translateY(-5px);
+}
+
+.stat-card .card-body {
+    padding: 1.5rem;
+}
+  
+.stat-card .icon {
+font-size: 2rem;
+opacity: 0.8;
+}
+
+  
+.quick-actions .btn {
+    margin: 5px;
+}
+
+/* Base Activity Icon Style */
+.activity-icon {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-right: 15px;
+    flex-shrink: 0;
+}
+
+/* Student Activities */
+.activity-icon.student {
+    background-color: #e3f2fd;
+    color: #1976d2;
+}
+
+/* Exam Activities */
+.activity-icon.exam {
+    background-color: #e8f5e9;
+    color: #388e3c;
+}
+
+.activity-icon.upcoming-exam {
+    background-color: #e0f7fa;
+    color: #0097a7;
+}
+
+.activity-icon.past-exam {
+    background-color: #f3e5f5;
+    color: #8e24aa;
+}
+
+/* Other Activity Types */
+.activity-icon.note {
+    background-color: #fff3e0;
+    color: #f57c00;
+}
+
+.activity-icon.class {
+    background-color: #f3e5f5;
+    color: #8e24aa;
+}
+
+.activity-icon.matiere {
+    background-color: #e0f7fa;
+    color: #00acc1;
+}
+
+.activity-icon.result {
+    background-color: #fff3e0;
+    color: #93f500;
+}
+
+/* Generic delete style that can be used for any entity type */
+.activity-icon[class*="-delete"] {
+    background-color: #ffebee;
+    color: #c62828;
+}
+
+/* Buttons */
+.btn {
+    border-radius: 0.5rem;
+    transition: all 0.2s;
+}
+
+.btn-primary {
+    background-color: #3498db;
+    border-color: #3498db;
+}
+
+.btn-primary:hover {
+    background-color: #2980b9;
+    border-color: #2980b9;
+}
+
+.btn-success {
+    background-color: #2ecc71;
+    border-color: #2ecc71;
+}
+
+.btn-success:hover {
+    background-color: #27ae60;
+    border-color: #27ae60;
+}
+
+.btn-danger {
+    background-color: #e74c3c;
+    border-color: #e74c3c;
+}
+
+.btn-danger:hover {
+    background-color: #c0392b;
+    border-color: #c0392b;
+}
+
+/* Tables */
+.table-container {
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    padding: 1rem;
+  }
+  
+  .table th {
+    background-color: #f8f9fa;
+    border-top: none;
+  }
+
+/* Form Controls */
+
+.form-container {
+    background-color: #fff;
+    border-radius: 0.5rem;
+    box-shadow: 0 0.125rem 0.25rem rgba(0, 0, 0, 0.075);
+    padding: 1.5rem;
+  }
+
+.form-control, .form-select {
+    transition: border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+}
+
+.form-control:focus, .form-select:focus {
+    border-color: #3498db;
+    box-shadow: 0 0 0 0.25rem rgba(52, 152, 219, 0.25);
+}
+
+/* Alert Container */
+.alert-container {
+    max-width: 350px;
+}
+
+.alert {
+    box-shadow: 0 0.5rem 1rem rgba(0, 0, 0, 0.15);
+    margin-bottom: 1rem;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+    width: 8px;
+  }
+  
+  ::-webkit-scrollbar-track {
+    background: #f1f1f1;
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: #888;
+    border-radius: 4px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: #555;
+  }
+
+/* DataTables customization */
+.dataTables_wrapper .dataTables_length,
+.dataTables_wrapper .dataTables_filter {
+    margin-bottom: 1rem;
+}
+
+.dataTables_wrapper .dataTables_info,
+.dataTables_wrapper .dataTables_paginate {
+    margin-top: 1rem;
+}
+
+/* Responsive Adjustments */
+@media (max-width: 768px) {
+    .sidebar {
+        left: -250px;
+    }
+    
+    .sidebar.active {
+        left: 0;
+    }
+
+    /* Overlay styling */
+    #sidebarOverlay {
+        position: fixed;
+        top: 0;
+        left: 0;
+        background: rgba(0, 0, 0, 0.5);
+        width: 100%;
+        height: 100%;
+        display: none;
+        z-index: 1030;
+    }
+
+    #sidebarOverlay.active {
+        display: block;
+    }
+    
+    .sidebar.show {
+        margin-left: 0;
+    }
+    
+    .main-content {
+        margin-left: 0;
+    }
+    
+    .main-content.pushed {
+        margin-left: 250px;
+    }
+}

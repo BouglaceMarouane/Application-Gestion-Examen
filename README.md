@@ -167,9 +167,9 @@
 
 ---
 
-### **10. Grade Management**
+### **9. Grade Management**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Grade Management"/>
+  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/ges_notes.png" alt="Grade Management"/>
   <br>
   <em>📈 Grade Management - Record, edit, and view student grades.</em>
 </p>

@@ -257,18 +257,18 @@
    ```
 3. **📦 Configure the Database**:
 
-  - Import the *dbs.sql* file located in the *config* folder into your MySQL server.
-  - Update the database connection details in *config/connection.php*.
+    - Import the *dbs.sql* file located in the *config* folder into your MySQL server.
+    - Update the database connection details in *config/connection.php*.
 
 4. **🌐 Start a local server**:
 
-  - Place the project in the root folder of your local server (e.g., *htdocs* for XAMPP).
-  - Access the application via *http://localhost/<project-folder>*.
+    - Place the project in the root folder of your local server (e.g., *htdocs* for XAMPP).
+    - Access the application via *http://localhost/<project-folder>*.
 
 5. **📦 Install Dependencies**:
 
-  - Ensure you have Composer installed.
-  - Run the following command to install the required libraries:
+    - Ensure you have Composer installed.
+    - Run the following command to install the required libraries:
      ```
      composer install
      ```

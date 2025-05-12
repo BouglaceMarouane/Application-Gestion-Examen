@@ -149,9 +149,9 @@
 
 ---
 
-### **8. Subjects Management**
+### **7. Subjects Management**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Subject Management"/>
+  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/ges_subject.png" alt="Subject Management"/>
   <br>
   <em>📚 Subject Management - Define subjects and assign them to specific academic fields.</em>
 </p>

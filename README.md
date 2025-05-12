@@ -189,7 +189,7 @@
 
 | Student Report |
 |:--------------:|
-| <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/bull.png" alt="Reports" width="300"/> |
+| <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/bull.png" alt="Reports" width="600"/> |
 | 📋 *Example of Report – A sample student performance report that can be generated and downloaded in PDF format.* |
 
 ---

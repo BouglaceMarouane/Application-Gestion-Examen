@@ -104,7 +104,7 @@
 
 ---
 
-### **2–3. Login & Registration Pages**
+### **2. Login & Registration Pages**
 
 | Login Page | Registration Page |
 |:-----------------:|:-----------------:|
@@ -113,7 +113,7 @@
 
 ---
 
-### **4. Admin Dashboard**
+### **3. Admin Dashboard**
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/1024fb333d9a653a4100c0056cc92f3cbfeed192/images/dashboard.png" alt="Admin Dashboard"/>
   <br>
@@ -122,9 +122,9 @@
 
 ---
 
-### **5. Registration Requests**
+### **4. Registration Requests**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Student Requests"/>
+  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/88ea8a5efbed67a4d6cc8f399a7d97fae8e2beed/images/demand_ins.png" alt="Student Requests"/>
   <br>
   <em>📋 Registration Requests - View and validate pending student registrations.</em>
 </p>

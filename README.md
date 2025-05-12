@@ -158,9 +158,9 @@
 
 ---
 
-### **9. Exams Management**
+### **8. Exams Management**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Exam Management"/>
+  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/ges_exam.png" alt="Exam Management"/>
   <br>
   <em>📅 Exam Management - Schedule exams, assign classes, and manage exam details.</em>
 </p>

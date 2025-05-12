@@ -178,7 +178,7 @@
 
 ### **11. PDF Report Generation**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Reports"/>
+  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/reports.png" alt="Reports"/>
   <br>
   <em>📋 Reports - Generate and download student performance reports in PDF format.</em>
 </p>

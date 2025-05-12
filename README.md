@@ -104,27 +104,30 @@
 
 ---
 
-### **2. Login Page**
-<p align="center">
-  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/46fda12b1ae5c9713812f89aa893d78ddc66c053/images/login.png" alt="Login Page"/>
-  <br>
-  <em>🔑 Login Page - Secure login for administrators, teachers, and students.</em>
-</p>
+### **2–3. Login & Registration Pages**
 
----
-
-### **3. Registration Page**
 <p align="center">
-  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/46fda12b1ae5c9713812f89aa893d78ddc66c053/images/register.png" alt="Registration Page"/>
-  <br>
-  <em>📝 Registration Page - Allows students to register with their details.</em>
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/46fda12b1ae5c9713812f89aa893d78ddc66c053/images/login.png" alt="Login Page" width="300"/>
+        <br>
+        <em>🔑 Login Page<br>Secure login for administrators, teachers, and students.</em>
+      </td>
+      <td align="center">
+        <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/46fda12b1ae5c9713812f89aa893d78ddc66c053/images/register.png" alt="Registration Page" width="300"/>
+        <br>
+        <em>📝 Registration Page<br>Allows students to register with their details.</em>
+      </td>
+    </tr>
+  </table>
 </p>
 
 ---
 
 ### **4. Admin Dashboard**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Admin Dashboard"/>
+  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/1024fb333d9a653a4100c0056cc92f3cbfeed192/images/dashboard.png" alt="Admin Dashboard"/>
   <br>
   <em>📊 Admin Dashboard - Manage students, exams, grades, and academic workflows from a centralized interface.</em>
 </p>

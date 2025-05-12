@@ -97,7 +97,7 @@
 
 ### **1. Home Page**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Home Page"/>
+  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/717d3f81f16c6f3d53ffafdd50679d6c8f691321/images/image.png" alt="Home Page"/>
   <br>
   <em>🏠 Home Page - The landing page of the application, providing navigation options for login, registration, or accessing the dashboard based on user roles.</em>
 </p>

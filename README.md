@@ -121,22 +121,22 @@
 ## ***🚧 Challenges Faced :***
 
 ### **1. Database Design**
-Creating a flexible database schema to handle different types of exams, grading systems, and academic structures was challenging. A relational design was implemented to maintain relationships between students, classes, subjects, and exams while allowing future scalability.
+- Creating a flexible database schema to handle different types of exams, grading systems, and academic structures was challenging. A relational design was implemented to maintain relationships between students, classes, subjects, and exams while allowing future scalability.
 
 ---
 
 ### **2. User Authentication**
-Implementing secure authentication with role-based access control required careful planning. A system was created to manage three distinct roles (administrator, teacher, student) with appropriate permissions for each.
+- Implementing secure authentication with role-based access control required careful planning. A system was created to manage three distinct roles (administrator, teacher, student) with appropriate permissions for each.
 
 ---
 
 ### **3. PDF Report Generation**
-Producing professional PDF reports with clean layouts, tables, and charts was technically complex. The TCPDF library was used, and custom templates were created to generate well-formatted report cards.
+- Producing professional PDF reports with clean layouts, tables, and charts was technically complex. The TCPDF library was used, and custom templates were created to generate well-formatted report cards.
 
 ---
 
 ### **4. Responsive Design**
-Ensuring the application works well on various devices and screen sizes required applying responsive design principles. Bootstrap 5 and custom CSS styles were used to create a mobile-friendly interface.
+- Ensuring the application works well on various devices and screen sizes required applying responsive design principles. Bootstrap 5 and custom CSS styles were used to create a mobile-friendly interface.
 
 ---
 
@@ -151,3 +151,31 @@ Ensuring the application works well on various devices and screen sizes required
 ![TCPDF](https://img.shields.io/badge/TCPDF-PDF%20Generation-green)
 
 ---
+
+## ***⚙️ Installation Steps :***
+
+1. **📥 Clone the repository** to your machine or download the ZIP files:
+   ```
+   git clone https://github.com/<your-username>/<repo-name>.git
+   ```
+2. **📂 Navigate to the project folder** and open it in Visual Studio Code:
+   ```
+   cd <repo-name> && code .
+   ```
+3. **📦 Configure the Database**:
+
+  - Import the *dbs.sql* file located in the *config* folder into your MySQL server.
+  - Update the database connection details in *config/connection.php*.
+
+4. **🌐 Start a local server**:
+
+  - Place the project in the root folder of your local server (e.g., *htdocs* for XAMPP).
+  - Access the application via *http://localhost/<project-folder>*.
+
+5. **📦 Install Dependencies**:
+
+  - Ensure you have Composer installed.
+  - Run the following command to install the required libraries:
+   ```
+   composer install
+   ```

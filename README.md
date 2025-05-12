@@ -142,11 +142,12 @@ Ensuring the application works well on various devices and screen sizes required
 
 ## **🛠️ Technologies Used :**
 
-![PHP](https://img.shields.io/badge/PHP-8.1-blue?logo=php&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-8.0-gold?logo=mysql&logoColor=white) 
 ![HTML](https://img.shields.io/badge/HTML-5-orange?logo=html5&logoColor=white) 
 ![CSS](https://img.shields.io/badge/CSS-3-blue?logo=css3&logoColor=white) 
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-red?logo=Bootstrap&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6-green?logo=javascript&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-8.1-blue?logo=php&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-8.0-gold?logo=mysql&logoColor=white) 
 ![TCPDF](https://img.shields.io/badge/TCPDF-PDF%20Generation-green)
 
 ---

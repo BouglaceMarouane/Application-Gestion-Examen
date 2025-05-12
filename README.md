@@ -179,3 +179,33 @@
      ```
      composer install
      ```
+---
+
+## ***🤝 Contribute :***
+
+We welcome and appreciate all contributions! Whether you're fixing bugs, adding new features, or improving documentation, your input helps make this project better.
+
+To contribute:
+
+Fork the repository and create your branch from main.
+Ensure your code follows the existing style and conventions.
+Submit a clear and descriptive pull request.
+If you discover a bug or have a feature request, please open an issue with detailed information to help us understand and address it quickly.
+
+---
+
+## ***⭐ Support :***
+
+If you find this project helpful, please consider giving it a ⭐ on GitHub — it really motivates me to keep improving and adding new features! Your support is truly appreciated! 🚀
+
+---
+
+## ***📬 Stay in Touch:***
+
+- 📧 Email: bouglacemarouane@gmail.com  
+- 🌐 GitHub: [Bouglace Marouane](https://github.com/BouglaceMarouane)
+- 🌍 LinkedIn: [Marouane Bouglace Linkedin](https://www.linkedin.com/in/marouane-bouglace-68b17333b/)
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>

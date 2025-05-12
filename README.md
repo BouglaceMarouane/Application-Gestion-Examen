@@ -176,7 +176,7 @@
 
 ---
 
-### **11. PDF Report Generation**
+### **10. PDF Report Generation**
 <p align="center">
   <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/reports.png" alt="Reports"/>
   <br>
@@ -185,9 +185,9 @@
 
 ---
 
-### **12. Exemple of Report**
+### **11. Exemple of Report**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Reports"/>
+  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/bull.png" alt="Reports"/>
   <br>
   <em>📋 Example of Report – A sample student performance report that can be generated and downloaded in PDF format.</em>
 </p>

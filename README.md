@@ -131,9 +131,9 @@
 
 ---
 
-### **6. Student Management**
+### **5. Student Management**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="Student Management"/>
+  <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/e21cd0c04b830547973d9df9689cb6e7af0c66a5/images/stu-mana.png" alt="Student Management"/>
   <br>
   <em>👩‍🎓 Student Management - Add, edit, delete, and manage student profiles.</em>
 </p>

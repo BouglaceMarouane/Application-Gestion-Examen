@@ -95,25 +95,101 @@
 
 ## ***📷 Screenshots :***
 
-### Home Page
+### **1. Home Page**
 <p align="center">
   <img src="https://via.placeholder.com/800x400" alt="Home Page"/>
   <br>
   <em>🏠 Home Page - The landing page of the application, providing navigation options for login, registration, or accessing the dashboard based on user roles.</em>
 </p>
 
-### Admin Dashboard
+---
+
+### **2. Login Page**
+<p align="center">
+  <img src="https://via.placeholder.com/800x400" alt="Login Page"/>
+  <br>
+  <em>🔑 Login Page - Secure login for administrators, teachers, and students.</em>
+</p>
+
+---
+
+### **3. Registration Page**
+<p align="center">
+  <img src="https://via.placeholder.com/800x400" alt="Registration Page"/>
+  <br>
+  <em>📝 Registration Page - Allows students to register with their details.</em>
+</p>
+
+---
+
+### **4. Admin Dashboard**
 <p align="center">
   <img src="https://via.placeholder.com/800x400" alt="Admin Dashboard"/>
   <br>
-  <em>Manage students, exams, and grades from a centralized dashboard.</em>
+  <em>📊 Admin Dashboard - Manage students, exams, grades, and academic workflows from a centralized interface.</em>
 </p>
 
-### PDF Report Generation
+---
+
+### **5. Registration Requests**
 <p align="center">
-  <img src="https://via.placeholder.com/800x400" alt="PDF Report"/>
+  <img src="https://via.placeholder.com/800x400" alt="Student Requests"/>
   <br>
-  <em>Generate and download detailed student performance reports in PDF format.</em>
+  <em>📋 Registration Requests - View and validate pending student registrations.</em>
+</p>
+
+---
+
+### **6. Student Management**
+<p align="center">
+  <img src="https://via.placeholder.com/800x400" alt="Student Management"/>
+  <br>
+  <em>👩‍🎓 Student Management - Add, edit, delete, and manage student profiles.</em>
+</p>
+
+---
+
+### **7. Classes Management**
+<p align="center">
+  <img src="https://via.placeholder.com/800x400" alt="Class Management"/>
+  <br>
+  <em>🏫 Class Management - Organize students into classes and academic fields.</em>
+</p>
+
+---
+
+### **8. Subjects Management**
+<p align="center">
+  <img src="https://via.placeholder.com/800x400" alt="Subject Management"/>
+  <br>
+  <em>📚 Subject Management - Define subjects and assign them to specific academic fields.</em>
+</p>
+
+---
+
+### **9. Exams Management**
+<p align="center">
+  <img src="https://via.placeholder.com/800x400" alt="Exam Management"/>
+  <br>
+  <em>📅 Exam Management - Schedule exams, assign classes, and manage exam details.</em>
+</p>
+
+---
+
+### **10. Grade Management**
+<p align="center">
+  <img src="https://via.placeholder.com/800x400" alt="Grade Management"/>
+  <br>
+  <em>📈 Grade Management - Record, edit, and view student grades.</em>
+</p>
+
+---
+
+### **11. PDF Report Generation**
+<p align="center">
+  <img src="https://via.placeholder.com/800x400" alt="Reports"/>
+  <br>
+  <em>📋 Reports - Generate and download student performance reports in PDF format.</em>
 </p>
 
 ---

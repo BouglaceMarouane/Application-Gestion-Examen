@@ -106,6 +106,8 @@
 
 ### **2–3. Login & Registration Pages**
 
+| Login Page | Registration Page |
+|:----------:|:-----------------:|
 | <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/46fda12b1ae5c9713812f89aa893d78ddc66c053/images/login.png" alt="Login Page" width="300"/> | <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/46fda12b1ae5c9713812f89aa893d78ddc66c053/images/register.png" alt="Registration Page" width="300"/> |
 |:--:|:--:|
 | 🔑 *Login Page – Secure login for administrators, teachers, and students.* | 📝 *Registration Page – Allows students to register with their details.* |

@@ -172,3 +172,7 @@
   - Intégration avec des systèmes de gestion de l'apprentissage (LMS).
   - Application mobile pour un accès en déplacement.
   - Fonctionnalités d'import/export en masse pour les données des étudiants.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=footer"/>
+</p>

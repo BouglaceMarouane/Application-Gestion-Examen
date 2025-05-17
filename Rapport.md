@@ -161,8 +161,8 @@
   5. Assurez-vous que votre serveur web dispose de *PHP 7.4+*.
   6. Accédez à l'URL du projet dans votre navigateur.
   7. Connectez-vous avec les identifiants administrateur par défaut :
-    - *Email* : admin@gmail.com
-    - *Mot de passe* : admin123
+     - *Email* : admin@gmail.com
+     - *Mot de passe* : admin123
 
 ---
 

@@ -111,7 +111,10 @@
     }
   ```
   - *Capture d'écran* : Interface d'ajout d'un étudiant.
-<img alt="Ajout étudiant" src="https://via.placeholder.com/800x400?text=Interface+Ajout+Étudiant">
+<div align="center">
+  <img alt="Ajout étudiant" src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/15475cb20bea2d3ed0e7498b511729b76f7da7a6/images/addstudent.png">
+</div>
+
 
 *3. Tableau de bord administrateur*
   - *Code* : Exemple de requête pour récupérer les examens à venir dans admin_dashboard.php :

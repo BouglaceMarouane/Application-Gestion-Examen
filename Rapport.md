@@ -1,7 +1,11 @@
 ## Rapport du Projet : Système de Gestion des Examens
 
+---
+
 **Vue d'ensemble du projet**
   Le Système de Gestion des Examens est une application web complète conçue pour simplifier la gestion des examens académiques, des dossiers des étudiants et du suivi des notes. L'application offre des interfaces dédiées aux administrateurs et aux enseignants, permettant une gestion efficace des processus liés aux examens.
+
+---
 
 **Fonctionnalités principales**
   - *Gestion des utilisateurs :*
@@ -21,6 +25,8 @@
   - *Génération de PDF :*
     - Exportation des bulletins de notes des étudiants au format PDF.
 
+---
+
 **Technologies utilisées**
   - *Backend* : PHP 7.4+
   - *Base de données* : MySQL
@@ -32,6 +38,8 @@
   - *Génération de PDF* : Bibliothèque TCPDF
   - *Icônes* : Font Awesome et Bootstrap Icons
 
+---
+
 **Structure du projet**
   - */admin* : Fichiers de l'interface administrateur.
   - */assets* : Fichiers CSS et Images.
@@ -40,6 +48,8 @@
   - */vendor* : Bibliothèques tierces (TCPDF).
   - *index.php* : Home page.
   - *generate_pdf.php* : It ensures that only authorized users can generate a report card for a specific student.
+
+---
 
 **Défis rencontrés**
 
@@ -54,6 +64,8 @@
 
   *4. Design responsive*
   Assurer que l'application fonctionne bien sur divers appareils et tailles d'écran a nécessité l'application des principes de design responsive. Nous avons utilisé Bootstrap 5 et des styles CSS personnalisés pour créer une interface adaptée aux mobiles.
+
+  ---
 
 **Fonctionnalités clés en images et extraits de code**
 
@@ -99,6 +111,8 @@
 
 </div>
 
+---
+
 *2. Gestion des étudiants*
   - *Code* : Exemple de validation des données dans add_student.php :
   ```
@@ -115,6 +129,7 @@
   <img alt="Ajout étudiant" src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/15475cb20bea2d3ed0e7498b511729b76f7da7a6/images/addstudent.png">
 </div>
 
+---
 
 *3. Tableau de bord administrateur*
   - *Code* : Exemple de requête pour récupérer les examens à venir dans admin_dashboard.php :
@@ -134,6 +149,9 @@
 <div align="center">
   <img alt="Ajout étudiant" src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/a86cc67fe034b8044fcd2b6d319def392abc3641/images/lastgrade.png">
 </div>
+
+---
+
 **Instructions d'installation**
 
   1. Clonez le dépôt dans le répertoire de votre serveur web.
@@ -145,6 +163,8 @@
   7. Connectez-vous avec les identifiants administrateur par défaut :
     - *Email* : admin@gmail.com
     - *Mot de passe* : admin123
+
+---
 
 **Améliorations futures**
   - Notifications par email pour les plannings d'examens et les mises à jour des notes.

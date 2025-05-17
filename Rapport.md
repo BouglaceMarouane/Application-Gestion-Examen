@@ -131,8 +131,9 @@
     ");
   ```
   - *Capture d'écran* : Tableau de bord affichant les examens à venir.
-<img alt="Tableau de bord" src="https://via.placeholder.com/800x400?text=Tableau+de+Bord+Admin">
-
+<div align="center">
+  <img alt="Ajout étudiant" src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/a86cc67fe034b8044fcd2b6d319def392abc3641/images/lastgrade.png">
+</div>
 **Instructions d'installation**
 
   1. Clonez le dépôt dans le répertoire de votre serveur web.

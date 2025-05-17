@@ -82,7 +82,22 @@
     $pdf->writeHTML($html, true, false, true, false, ''); 
   ```
   - *Capture d'écran* : Exemple d'un bulletin de notes généré en PDF.
-<img alt="Bulletin PDF" src="https://via.placeholder.com/800x400?text=Exemple+de+Bulletin+PDF">
+<div align="center">
+
+<table width="100%">
+  <tr>
+    <td align="center">
+      <strong>Student Report</strong>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/BouglaceMarouane/Application-Gestion-Examen/blob/7850ee5944fc002a0ef84549ab1234d9ede750cc/images/bull.png" alt="Reports" width="500"/>
+    </td>
+  </tr>
+</table>
+
+</div>
 
 *2. Gestion des étudiants*
   - *Code* : Exemple de validation des données dans add_student.php :

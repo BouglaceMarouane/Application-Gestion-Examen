@@ -27,7 +27,6 @@
 
 
 
-
 # 🎓 **ExamManager – School Exam Management System**
 
 ## ***✨ Project Description :***
